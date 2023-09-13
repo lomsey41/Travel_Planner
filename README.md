@@ -46,6 +46,28 @@ The purpose of this project is to provide travelers with a user-friendly platfor
 - Design a responsive and visually appealing UI with Material UI
 
 
+    
+Technologies Used:
+
+Frontend Technologies:
+
+    React: A JavaScript library for building user interfaces.
+    Material UI: A popular UI framework for React that provides pre-designed components.
+    AJAX: A technique for making asynchronous requests from the frontend to the backend.
+    Passport.js: Middleware for authentication in the frontend (if you're implementing client-side authentication).
+
+
+
+Backend Technologies:
+
+    Node.js: A JavaScript runtime for building server-side applications.
+    Express.js: A web application framework for Node.js, commonly used for building RESTful APIs.
+    MongoDB: A NoSQL database for storing travel data and user information.
+    Mongoose: An ODM (Object Data Modeling) library for MongoDB, used for modeling and interacting with the database.
+    Passport.js: Middleware for authentication in the backend (if you're implementing server-side authentication).
+    Bcrypt: A library for hashing and securing user passwords.
+
+
 
 ## User Stories
 
