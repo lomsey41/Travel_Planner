@@ -100,19 +100,22 @@ Travel Planner is hosted on Hosting Provider Name.
 
 
 
-Author
- Your Name: SALOME BASSEY
- GitHub:https://github.com/lomsey41 
- Twitter:http://www.twitter.com/lomsey41 
- LinkedIn:http://www.linkedin.com/in/salome-bassey 
+Author:
+
+    Your Name: SALOME BASSEY
+    GitHub:https://github.com/lomsey41 
+    Twitter:http://www.twitter.com/lomsey41 
+    LinkedIn:http://www.linkedin.com/in/salome-bassey 
 
 
 
 
 LICENSE:
+
 This project is licensed under the MIT License.
 
 
 
-Acknowledgments
+Acknowledgments:
+
  Special thanks to [NATHANIEL EMENIKE] for his Technical Support
