@@ -64,14 +64,19 @@ To run this project locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/travel-planner.git
+ git clone https://github.com/your-username/travel-planner.git
 
-    Install the project dependencies:
+
+ Install the project dependencies:
 
     bash
 
-cd travel-planner
+cd travel-planner.
+
+
 npm install
+
+
 
 Set up your MongoDB database and update the connection string in the configuration.
 
@@ -96,21 +101,18 @@ Travel Planner is hosted on Hosting Provider Name.
 
 
 Author
-
-    Your Name: SALOME BASSEY
-    GitHub:https://github.com/lomsey41 
-    Twitter:http://www.twitter.com/lomsey41 
-    LinkedIn:http://www.linkedin.com/in/salome-bassey 
+ Your Name: SALOME BASSEY
+ GitHub:https://github.com/lomsey41 
+ Twitter:http://www.twitter.com/lomsey41 
+ LinkedIn:http://www.linkedin.com/in/salome-bassey 
 
 
 
 
 LICENSE:
-
 This project is licensed under the MIT License.
 
 
 
 Acknowledgments
-
-    Special thanks to [NATHANIEL EMENIKE] for his Technical Support
+ Special thanks to [NATHANIEL EMENIKE] for his Technical Support
