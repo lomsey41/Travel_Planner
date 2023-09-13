@@ -101,7 +101,9 @@ Travel Planner is hosted on Hosting Provider Name.
 
 
 Author:
- Your Name: SALOME BASSEY
+
+ SALOME BASSEY
+
  GitHub:https://github.com/lomsey41 
  Twitter:http://www.twitter.com/lomsey41 
  LinkedIn:http://www.linkedin.com/in/salome-bassey 
